@@ -142,6 +142,7 @@ The directory structure for your repo should look like this:
 #### Code Structure
 
 **`DataFrame`** : Data structure inspired by pandas DataFrame
+
 **`Main`** Main file to actually compute the top 10 stats
 
 # Run Instructions
