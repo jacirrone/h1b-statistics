@@ -147,7 +147,7 @@ The directory structure for your repo should look like this:
 
 # Run Instructions
 
-Copy the input file h1b_input.csv to the input folder `./input` and run the `sh run.sh`.
+Copy the input file h1b_input.csv to the input folder `./input` and run `sh run.sh`.
 
 
 
